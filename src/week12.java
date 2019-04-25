@@ -10,6 +10,10 @@ public class week12 {
 		System.out.println("hello");
 		
 		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		
 
 	}
 
